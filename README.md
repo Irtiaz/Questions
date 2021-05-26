@@ -1,2 +1,2 @@
 # Questions
-Interesting questions
+[Interesting questions](http://irtiaz.github.io/Questions)
